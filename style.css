@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+}
+
+
+#welcome {
+    color: #FFF;
+    bottom: 0;
+    background: linear-gradient(#ffd59e 0%, #ffbdd4 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'lato', sans-serif;
+    font-weight: 300;
+}
+#bio {
+    padding: 50px;
+    text-align: center;
+    
+
+}
+#contact iframe{
+    width: 100%;
+    
+}
+.contact1 h3{
+display: inline;
+}
+.contact1 a{
+    text-shadow: none;
+}
+#videos iframe{
+    width: 80%;
+}
+.my_Nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+input{
+    background-color: darkgray;
+}
+.profile{
+    width: 200px;
+    border-radius:30px;
+    margin-top: 20px;
+}
